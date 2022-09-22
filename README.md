@@ -17,16 +17,16 @@ Walter Guerra | 201709073
 Jeffry Méndez | 201901557
 
 ## Foto de los integrantes 
-![](IMAGEN_GRUPO.jpeg)
+![](imagenes/IMAGEN_GRUPO.jpeg)
 
 # Contenido
 
 Documentos
     <ul>
-       <li><a href="https://github.com/AlvaroG13191704/P.I_Informe_2/blob/main/TRIFOLIAR%20VIDEO%201.pdf" target="_blank">:arrow_right: Manual</a></li>
+       <li><a href="https://github.com/AlvaroG13191704/P.I_ACTIVIDAD/blob/main/MANUAL.pdf" target="_blank">:arrow_right: Manual</a></li>
     </ul>
     
 ## Video 
-[![Watch the video](/imagenes/fondo1.PNG)](https://www.youtube.com/watch?v=weHUxjn_Oxc)
+[![Watch the video](imagenes/fondo1.png)](https://www.youtube.com/watch?v=weHUxjn_Oxc)
 
 
